@@ -1,10 +1,16 @@
-# CryptX
+# CryptX <img src = "https://github.com/optimm/Cryptx/blob/master/public/robot.png" height="200" align="right" >
+
+<pre>
+</pre>
 
 - This is a Message encryption and Decryption Web App.
 - Made with Node js, Express js, HTML and CSS.
 - Looking forward to make imrovements in the Encryption Algorithm 👨🏼‍🔧.
+- ### Deployed at - https://cryyptx.herokuapp.com/
+<pre>
+</pre>
 
-##### Steps to get this on your system 💻
+### Steps to get this on your system 💻
 
 - Clone the repository or download the zip file `git clone https://github.com/optimm/Cryptx.git` .
 
@@ -14,4 +20,4 @@
 <pre>
 </pre>
 
-#### Do Fork and ⭐ the repository , Thanks 👨‍💻.
+### Do Fork and ⭐ the repository , Thanks 👨‍💻.
