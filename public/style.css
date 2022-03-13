@@ -28,6 +28,16 @@
   padding-top: 11px;
   padding-left: 11px;
 }
+.visitors-head {
+  position: absolute;
+  top: 28px;
+  left: 20px;
+  font-size: 19px;
+
+  padding: 3px 10px 3px 10px;
+  color: white;
+  font-family: "Sansita Swashed", cursive;
+}
 
 body {
   max-width: 100vw;
