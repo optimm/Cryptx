@@ -1,4 +1,4 @@
-# CryptX <img src = "public/robot.png" height="200" align="right" >
+# CryptX <img src = "https://raw.githubusercontent.com/optimm/Cryptx/master/public/robot.png" height="200" align="right" >
 
 <pre>
 </pre>
