@@ -1,4 +1,4 @@
-# CryptX <img src = "https://github.com/optimm/Cryptx/blob/master/public/robot.png" height="200" align="right" >
+# CryptX <img src = "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg" height="200" align="right" >
 
 <pre>
 </pre>
